@@ -38,7 +38,7 @@
 
 <table align="center"><tr border="none"><td width="50%" align="center">
   <a href="https://leetcode.com/Ometek">
-  <img src="https://leetcode.card.workers.dev/Ometek?theme=unicorn&font=baloo&extension=activity" alt="LeetCode Stats"></a>
+  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/Ometek?theme=catppuccinMocha&font=Margarine&ext=contest)" alt="LeetCode Stats"></a>
 </td>
 
 <td width="50%" align="center">
