@@ -66,7 +66,7 @@ Happy Coding! 😊
 <div id="user-content-toc"><ul align="center"><summary>
   <h2 style="display: inline-block">Contact Me! 📧</h2>
 </summary></ul></div>
-Ask me anything <a href="https://github.com/Ometek16/Ometek16/issues/new"><b>here</b></a> or <a href=“https://ometekacademy.com/contact/”> or <a href="mailto:kuba.ornatek@gmail.com"><b>send me an email</b></a>.
+Ask me anything <a href="https://github.com/Ometek16/Ometek16/issues/new"><b>here</b></a> or <a href=“https://ometekacademy.com/contact/”><b>here</b></a> or <a href="mailto:kuba.ornatek@gmail.com"><b>send me an email</b></a>.
 
  
 
