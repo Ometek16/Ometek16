@@ -23,9 +23,9 @@
 
 
 <!-- About me -->
-🧑‍🎓 I'm a Computer Science student at [MIMUW](https://mimuw.edu.pl). 
+🧑‍🎓 I'm a Computer Science graduate at [MIMUW](https://mimuw.edu.pl). 
 
-🧑‍🏫 I'm an Olympic Trainer at [OlympCode](https://www.olympcode.com).
+🧑‍🏫 I'm an Olympic Trainer at [OmetekAcademy](https://ometekacademy.com/).
 
 🏆 I love Competetive Programming and Web Scraping.
 
@@ -66,7 +66,7 @@ Happy Coding! 😊
 <div id="user-content-toc"><ul align="center"><summary>
   <h2 style="display: inline-block">Contact Me! 📧</h2>
 </summary></ul></div>
-Ask me anything <a href="https://github.com/Ometek16/Ometek16/issues/new"><b>here</b></a> or <a href="mailto:kuba.ornatek@gmail.com"><b>send me an email</b></a>.
+Ask me anything <a href="https://github.com/Ometek16/Ometek16/issues/new"><b>here</b></a> or <a href=“https://ometekacademy.com/contact/”> or <a href="mailto:kuba.ornatek@gmail.com"><b>send me an email</b></a>.
 
  
 
@@ -79,5 +79,5 @@ Ask me anything <a href="https://github.com/Ometek16/Ometek16/issues/new"><b>her
 
 ----------------------------------------------------------------------
   
-Last Edited on: 27/07/2024
+Last Edited on: 27/09/2026
 </div>
