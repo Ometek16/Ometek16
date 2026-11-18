@@ -25,7 +25,7 @@
 <!-- About me -->
 🧑‍🎓 I'm a Computer Science graduate at [MIMUW](https://mimuw.edu.pl). 
 
-🧑‍🏫 I'm an Olympic Trainer at [OmetekAcademy](https://ometekacademy.com/).
+🧑‍🏫 I'm an Olympiad coach at [OmetekAcademy](https://ometekacademy.com/).
 
 🏆 I love Competetive Programming and Web Scraping.
 
